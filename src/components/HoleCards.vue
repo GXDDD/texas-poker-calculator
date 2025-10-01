@@ -2,9 +2,9 @@
 import { ref } from 'vue'
 import CardGroup from './CardGroup.vue';
 
+const playerCount = ref(2);
 // defineProps<{ msg: string }>()
 
-const playerCount = ref(2)
 </script>
 
 <template>

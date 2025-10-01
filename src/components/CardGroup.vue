@@ -2,8 +2,8 @@
 import { ref } from 'vue'
 import Card from './Card.vue';
 
-
 defineProps<{ cardCount: number }>()
+
 
 </script>
 
